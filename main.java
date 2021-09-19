@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 interface ProductFactory {
 	createGlass();
 	createLiquid();
@@ -24,3 +26,13 @@ class SodaFactory implements ProductFactory{
 	}
 }
 
+public class Driver {
+	public static void main(String[] args) {
+		Scanner Obj = new Scanner(System.in);
+		System.out.println("Would you like: \n 1) Beer? \n (2) Soda? :");
+		
+		String choice = Obj.nextLine();
+		
+		if choice == 
+	}
+}
