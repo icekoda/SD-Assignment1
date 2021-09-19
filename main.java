@@ -8,21 +8,21 @@ interface ProductFactory {
 class BeerFactory implements ProductFactory{
 	private
 	public Beerglass createGlass(){
-		return BeerGlass
+		return BeerGlass;
 	}
 
 	public BeerLiquid createLiquid(){
-		return BeerLiquid
+		return BeerLiquid;
 	}
 }
 
 class SodaFactory implements ProductFactory{
 	public SodaGlass createGlass(){
-		return SodaGlass
+		return SodaGlass;
 	}
 
 	public SodaLiquid createLiquid(){
-		return SodaLiquid
+		return SodaLiquid;
 	}
 }
 
