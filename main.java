@@ -33,6 +33,8 @@ public class Driver {
 		
 		String choice = Obj.nextLine();
 		
-		if choice == 
+		if (choice == 1) {
+			System.out.println("You chose Beer")
+		}
 	}
 }
