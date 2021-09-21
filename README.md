@@ -10,3 +10,5 @@ In the following files posted you will be able to see our UML diagram screen cap
 As well there are some of our Methods listed and the code inside. There is also a file with the output of the finial results and our test code. 
 
 If there are any questions please be free to ask. 
+
+![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/UML.png?raw=true)
