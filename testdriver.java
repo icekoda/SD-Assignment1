@@ -6,7 +6,9 @@ public class testdriver {
     public static void main(String[] args) throws IOException {
         AbstractFactory factory = new ConcreteFactory();
 
-    
+        //CHANGE THESE IF YOU WANT DIFFERENT OPTIONS
+        //if we have time, we can allow user to decide what
+        // two options they would like
         String choice1 = "Soda";
         String choice2 = "Shot";
 
