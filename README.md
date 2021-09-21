@@ -11,5 +11,9 @@ As well there are some of our Methods listed and the code inside. There is also 
 
 If there are any questions please be free to ask. 
 
+
+
+
 ![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/UML.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/results.png?raw=true)
