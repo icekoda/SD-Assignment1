@@ -15,10 +15,10 @@ Our driver and main file is testdriver.java
 If there are any questions please be free to ask. 
 
 
+![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/results.png?raw=true)
 
 
 ![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/UML.png?raw=true)
 
 
 
-![alt text](https://github.com/icekoda/SD-Assignment1/blob/main/results.png?raw=true)
