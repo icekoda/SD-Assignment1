@@ -1,5 +1,7 @@
-//Interface for a product, which will be a drink
+import java.io.IOException;
+
 public interface Drink {
-	String createGlass();
-	String createLiquid();
+    
+    public double drinkPrice(String drinkName) throws IOException;
+
 }

@@ -1,4 +1,6 @@
-public interface AbstractFactory<T> {
-	T create(String drinkType);
-}
+//Creates abstract drink
+public interface AbstractFactory{
 
+    Drink createDrink(String drinkName);
+
+}
