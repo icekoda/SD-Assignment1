@@ -1,6 +1,8 @@
 # SD-Assignment1
+Group 28
 Daniel LoPresti (100748818)
 Yousif Sarmad (100746887)
+Tomiwa Oladunjoye (100741743)
 
 What we hoped to create was a drink cration factory and implement an abstract factory pattern to our desgin. After using methods to create the users drink we then added prices to each set using a factory method pattern. 
 
